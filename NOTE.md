@@ -1,5 +1,18 @@
 # 笔记&备注
 
+
+## 用到的资源
+
+axios
+mint-ui
+
+
+
+
+
+
+
+
 ## Question
 
 Q: node-sass 安装失败？

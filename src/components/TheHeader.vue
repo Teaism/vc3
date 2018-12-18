@@ -1,7 +1,7 @@
 <template>
-  <div>
-    Home
-  </div>
+  <header>
+    地利生鲜
+  </header>
 </template>
 
 <script>
