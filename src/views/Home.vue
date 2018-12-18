@@ -1,15 +1,20 @@
 <template>
-  <div>
-    Home
+
+  <div class="home">
+    <HelloWorld msg="chen" />
   </div>
 </template>
 
 <script>
+
+import HelloWorld from '@/components/HelloWorld.vue'
+
 export default {
   data () {
     return {
     }
-  }
+  },
+  components: [HelloWorld]
 }
 </script>
 
